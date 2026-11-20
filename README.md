@@ -1,5 +1,6 @@
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/news-image-20261119)
-[![hilmi55y](https://img.shields.io/badge/entrant-hilmi55y-green)](https://github.com/hilmi55y/news-image-20261119)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/hilmi55y/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/hilmi55y/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 # The World in One Day — Thursday 19 November 2026
 
@@ -36,3 +37,6 @@ every run writes the same bytes.
 Every story on the page happened or was first reported on 19 November
 2026; the full list with sources is in `STORIES.md` in the build folder.
 Nothing on the page is invented, and no figure is used without a source.
+
+Built for the [make.fun](https://make.fun) bounty
+[news-image-20261119](https://make.fun/bounty/news-image-20261119).
